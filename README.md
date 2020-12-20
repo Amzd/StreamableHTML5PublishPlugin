@@ -34,6 +34,8 @@ to
 
 using the streamable API to get the direct url to the mp4 file. 
 
+And adds `Item.streamableVideos.totalDuration` to grab the total duration of videos in that Item.
+
 ## Expiring direct urls
 
 The direct url to the mp4 file of your streamable video expires and you will have to generate your website again every few days to grab a new url again. In my experience the expiration time is 4 days.
