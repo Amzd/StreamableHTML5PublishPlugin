@@ -1,3 +1,9 @@
+# Don't use this
+
+Streamable started actually deleting videos instead of just warning you about it if you use the free version.
+
+The paid version is 10-100x as expensive as any other hosting option. I switched to [BunnyCDN](https://bunnycdn.com/?ref=m0currc3vf) which is very cheap but has a $1 a month minimum cost so even when you have like 10 cents a month cost like me you'll still pay $1.
+
 # StreamableHTML5PublishPlugin
 
 Use streamable videos without iframe, embed or javascript.
